@@ -1,0 +1,12 @@
+{
+  "name": "proxy-requests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SanthoshRaju91/proxy-requests.git",
+  "author": "Nagaraj Santhosh <santhosh.nagaraj@rakuten.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
+}
